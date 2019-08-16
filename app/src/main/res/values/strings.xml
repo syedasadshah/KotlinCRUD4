@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinCRUD2</string>
+    <string name="description">"There may be a very long description of the note"</string>
+    <string name="title">Title</string>
+
+
+</resources>
